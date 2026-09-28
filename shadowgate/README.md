@@ -1,6 +1,6 @@
 # Challenge Lab: ShadowGate (Easy)
 
-![ShadowGate]("C:\Users\HP\Documents\shadowgate\assets\preview.png")
+![ShadowGate](./assets/preview.png)
 
 <aside>
 💡
@@ -267,7 +267,7 @@ LDAP        10.1.229.122     389    DC01             Done in 0M 40S
 LDAP        10.1.229.122     389    DC01             Compressing output into /home/kali/.nxc/logs/DC01_10.1.229.122_2026-09-24_025344_bloodhound.zip
 ```
 
-![image.png](C:\Users\HP\Documents\shadowgate\assets\image%202.png)
+![image.png](./assets/blh.png)
 
 Bloodhound gave us hint, that `jtrueblood` has the Outbound-object Control which gave him,a `GenericWrite` permisson over the `bbrown` user who is a member of this groups. 
 
@@ -555,7 +555,7 @@ DC01$:1000:aad3b435b51404eeaad3b435b51404ee:35413ba233a9202dba7faa1a8dc57ebe:::
 
 # Final Shell
 
-![image.png](C:\Users\HP\Documents\shadowgate\assets\image%203.png)
+![image.png](./assets/shell.png)
 
 And congratulations🎉🎉 to us ,we have officially solved the lab.
 
