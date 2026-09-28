@@ -1,6 +1,6 @@
 # Challenge Lab: ShadowGate (Easy)
 
-![ShadowGate](C:\Users\HP\Documents\shadowgate\assets\image.png)
+![ShadowGate]("C:\Users\HP\Documents\shadowgate\assets\preview.png")
 
 <aside>
 💡
@@ -179,7 +179,7 @@ HOP RTT    ADDRESS
 
 ## HTTP (80)
 
-![image.png](C:\Users\HP\Documents\shadowgate\assets\image%201.png)
+![HTTP Enumeration](./assets/http.png)
 
 There is no interesting or vuln webpage is hosted rather its just plain default webpage of Windows Server .
 
