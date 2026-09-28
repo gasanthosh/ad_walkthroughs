@@ -564,7 +564,7 @@ And congratulations🎉🎉 to us ,we have officially solved the lab.
 
 Thanks for reading through this walkthrough! If you have any questions, feedback, or suggestions for alternative exploitation paths, feel free to reach out.
 
-- 🔗 **LinkedIn:** [linkedin.com/in/santhosh](https://www.google.com/search?q=https://linkedin.com/in/santhoshga&utm_source=gemini)
+- 🔗 **LinkedIn:** [linkedin.com/in/santhoshga](https://www.google.com/search?q=https://linkedin.com/in/santhoshga&utm_source=gemini)
 - 🐙 **GitHub:** [github.com/gasanthosh](https://www.google.com/search?q=https://github.com/gasanthosh&utm_source=gemini)
 - 🛡️ **TryHackMe:** [tryhackme.com/p/gasanthosh](https://www.google.com/search?q=https://tryhackme.com/p/gasanthosh&utm_source=gemini)
 </aside>
